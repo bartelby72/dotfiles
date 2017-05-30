@@ -6,8 +6,8 @@ if [ -f /etc/bashrc ]; then
 fi
 
 # User specific aliases and functions
-alias cda='cd ~/mygit/linux/atrt'
-alias cdp='cd ~/mygit/linux/project-sample'
+alias cdla='cd ~/mygit/linux/atrt'
+alias cdlp='cd ~/mygit/linux/project-sample'
 alias glog='git log --graph --decorate=full --all --stat'
 alias h='history'
 alias ll='ls -l'
