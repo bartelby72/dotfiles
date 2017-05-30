@@ -19,3 +19,5 @@ parse_git_branch() {
 export PS1="\u@\h \w \$(parse_git_branch)\n$ "
 #export PS1="\u@\h \[\033[32m\]\w\[\033[33m\]\$(parse_git_branch)\[\033[00m\]\n$ "
 
+export HISTTIMEFORMAT="%m/%d/%y %T "
+
