@@ -6,14 +6,12 @@ if [ -f /etc/bashrc ]; then
 fi
 
 # User specific aliases and functions
-alias cda='cd ~/mygit/atrt'
-alias cdp='cd ~/mygit/project-sample'
-alias cdla='cd ~/mygit/linux/atrt'
-alias cdlp='cd ~/mygit/linux/project-sample'
+alias cdg='cd ~/mygit'
 alias glog='git log --graph --decorate=full --all --stat'
 alias h='history'
 alias ll='ls -l'
-alias ls='ls -F --color=auto --show-control-chars'
+alias ls='ls'
+alias lf='ls -F'
 
 parse_git_branch() {
      git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/'
