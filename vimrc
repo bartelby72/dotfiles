@@ -10,6 +10,7 @@ endif
 
 " ================ General Config ====================
 
+set tabstop=4 softtabstop=4 shiftwidth=4 noexpandtab
 set number                      "Line numbers are good
 set backspace=indent,eol,start  "Allow backspace in insert mode
 set history=1000                "Store lots of :cmdline history
@@ -61,9 +62,9 @@ endif
 set autoindent
 set smartindent
 set smarttab
-set shiftwidth=2
-set softtabstop=2
-set tabstop=2
+set shiftwidth=4
+set softtabstop=4
+set tabstop=4
 set expandtab
 
 " Auto indent pasted text
