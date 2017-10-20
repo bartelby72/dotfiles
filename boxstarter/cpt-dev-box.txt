@@ -1,0 +1,13 @@
+Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions
+Enable-RemoteDesktop
+
+cinst fiddler4
+cinst console-devel
+cinst sublimetext3
+cinst poshgit
+cinst dotpeek
+
+cinst Microsoft-Hyper-V-All -source windowsFeatures
+cinst IIS-WebServerRole -source windowsfeatures
+
+
