@@ -1,0 +1,23 @@
+Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions
+Enable-RemoteDesktop
+
+cinst fiddler4
+cinst git
+cinst svn
+cinst 7zip
+cinst ConEmu
+cinst greenshot
+cinst jdk8
+cinst p4merge
+cinst python3
+cinst sublimetext3
+cinst sysinternals
+cinst tigervnc
+cinst veracrypt
+cinst virtualbox
+cinst vcredist2013
+cinst winscp
+
+cinst Microsoft-Hyper-V-All -source windowsFeatures
+
+
