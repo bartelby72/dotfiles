@@ -1,23 +1,30 @@
 Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions
-Enable-RemoteDesktop
 
-cinst fiddler4
+Set-TaskbarOptions -Lock -Dock Bottom
+
 cinst git
 cinst svn
-cinst 7zip
+cinst sourcetree
+
 cinst ConEmu
-cinst greenshot
-cinst jdk8
 cinst p4merge
-cinst python3
 cinst sublimetext3
+cinst jetbrainstoolbox
+
+cinst 7zip
+cinst greenshot
 cinst sysinternals
 cinst tigervnc
 cinst veracrypt
 cinst virtualbox
-cinst vcredist2013
 cinst winscp
+cinst firefox
+
+cinst gradle
+cinst cmake
+cinst vcredist2013
+cinst jdk8
+cinst python3
+cinst curl
 
 cinst Microsoft-Hyper-V-All -source windowsFeatures
-
-
