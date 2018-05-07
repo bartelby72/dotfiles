@@ -1,4 +1,3 @@
-Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions
 
 Set-TaskbarOptions -Lock -Dock Bottom
 
