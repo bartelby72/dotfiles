@@ -3,4 +3,7 @@ set -g prefix `
 bind-key ` send-prefix
 
 set -g base-index 1
+#set-option -g allow-rename off
+set-window-option -g automatic-rename off
+set-option -g renumber-windows on
 
