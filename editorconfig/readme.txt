@@ -1,0 +1,2 @@
+see http://editorconfig.org
+
