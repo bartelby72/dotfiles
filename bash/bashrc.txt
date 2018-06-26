@@ -12,6 +12,7 @@ alias h='history'
 alias ll='ls -l'
 alias ls='ls'
 alias lf='ls -F'
+alias white='echo -e "\e[0mNormal Text"'
 
 parse_git_branch() {
      git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/'
