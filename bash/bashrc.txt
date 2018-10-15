@@ -23,6 +23,3 @@ export PS1="\u@\h \w \$(parse_git_branch)"$'\n$ '
 
 export HISTTIMEFORMAT="%m/%d/%y %T "
 
-###
-export PATH=/usr/local/git/bin:${PATH}
-
