@@ -602,9 +602,9 @@
 			</key>
 			<key name="Tasks" modified="2017-10-20 11:09:58" build="170910">
 				<value name="Count" type="long" data="13"/>
-				<key name="Task1" modified="2017-10-20 11:09:58" build="170910">
+				<key name="Task1" modified="2019-01-09 09:14:28" build="180626">
 					<value name="Name" type="string" data="{Bash::Git bash}"/>
-					<value name="Flags" type="dword" data="00000006"/>
+					<value name="Flags" type="dword" data="00000007"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
 					<value name="GuiArgs" type="string" data=""/>
 					<value name="Cmd1" type="string" data='"C:\Program Files\Git\bin\bash.exe" --login -i'/>
