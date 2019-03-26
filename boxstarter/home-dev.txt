@@ -3,8 +3,6 @@ Set-TaskbarOptions -Lock -Dock Bottom
 Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -DisableShowProtectedOSFiles -EnableShowFileExtensions -EnableShowFullPathInTitleBar -EnableOpenFileExplorerToQuickAccess -DisableShowRecentFilesInQuickAccess -DisableShowFrequentFoldersInQuickAccess -EnableExpandToOpenFolder -EnableShowRibbon
 
 cinst git
-cinst svn
-cinst sourcetree
 
 cinst ConEmu
 cinst p4merge
@@ -14,17 +12,11 @@ cinst FoxitReader
 
 cinst 7zip
 cinst sysinternals
-cinst tigervnc
 cinst veracrypt
 cinst virtualbox
-cinst winscp
 cinst firefox
 
 cinst gradle
-cinst cmake
-cinst vcredist2013
-cinst jdk8
+cinst openjdk
 cinst python3
 cinst curl
-
-cinst Microsoft-Hyper-V-All -source windowsFeatures
