@@ -10,22 +10,21 @@ cinst ConEmu
 cinst p4merge
 cinst sublimetext3
 cinst jetbrainstoolbox
+cinst FoxitReader
 cinst visualstudioexpress2013windowsdesktop
 cinst vscode --params "/NoDesktopIcon /NoQuicklaunchIcon"
-cinst FoxitReader
 
 cinst 7zip
 cinst sysinternals
 cinst tigervnc
 cinst veracrypt
-cinst virtualbox
 cinst winscp
 cinst firefox
 
 cinst gradle
 cinst cmake
 cinst vcredist2013
-cinst jdk8
+cinst openjdk
 cinst python3
 cinst curl
 
