@@ -8,7 +8,6 @@ cinst ConEmu
 cinst p4merge
 cinst sublimetext3
 cinst jetbrainstoolbox
-cinst FoxitReader
 
 cinst 7zip
 cinst sysinternals

@@ -10,7 +10,6 @@ cinst ConEmu
 cinst p4merge
 cinst sublimetext3
 cinst jetbrainstoolbox
-cinst FoxitReader
 cinst visualstudioexpress2013windowsdesktop
 cinst vscode --params "/NoDesktopIcon /NoQuicklaunchIcon"
 

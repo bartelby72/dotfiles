@@ -12,7 +12,6 @@ cinst sublimetext3
 cinst jetbrainstoolbox
 cinst visualstudioexpress2013windowsdesktop
 cinst vscode --params "/NoDesktopIcon /NoQuicklaunchIcon"
-cinst FoxitReader
 
 cinst 7zip
 cinst sysinternals
