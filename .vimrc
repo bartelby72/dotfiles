@@ -13,6 +13,9 @@ set visualbell                  "No sounds
 
 "turn on syntax highlighting
 syntax on
+"to find the installed colorschemes press
+"  :colorscheme <ctrl d>
+colorscheme slate
 
 " ================ Turn Off Swap Files ==============
 set noswapfile
