@@ -1,9 +1,4 @@
-# .bashrc
-
-# Source global definitions
-if [ -f /etc/bashrc ]; then
-	. /etc/bashrc
-fi
+# cat bashrc.txt >> ~/.bashrc
 
 # User specific aliases and functions
 alias cdg='cd ~/mygit'
